@@ -1,6 +1,6 @@
 ### Hi 👋
 
-I'm Diane ! I started coding in 2020 at Le Wagon and did both Web (2020) and Data (2021) bootcamps there. Before that I studied Business and did a couple years as a Cost Controller. I'm currently looking for a position as a backend Ruby on Rails developer.
+I'm Diane ! I started coding in 2020 at Le Wagon and did both Web (2020) and Data (2021) bootcamps there. Before that I studied Business and did a couple years as a Cost Controller. I'm currently working as a FullStack Developer on Rails at CulturePay (with another GitHub account with only private contributions).
 
 <h3 align="left">Languages :</h3>
 <p align="left">
